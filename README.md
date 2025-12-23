@@ -3,8 +3,12 @@
 [![Blog Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://hkunlp.github.io/blog/2025/dream-vlx)
 [![Model: Dream-VL-7B](https://img.shields.io/badge/HuggingFace-Dream--VL--7B-yellow.svg)](https://huggingface.co/Dream-org/Dream-VL-7B)
 [![Model: Dream-VLA-7B](https://img.shields.io/badge/HuggingFace-Dream--VLA--7B-yellow.svg)](https://huggingface.co/Dream-org/Dream-VLA-7B)
-![](assets/overview.png)
+
+![](assets/VLA_mid.gif)
+
 Building on the success of Dream 7B, we introduce Dream-VL and Dream-VLA, open VL and VLA models that fully unlock discrete diffusion’s advantages in **long-horizon planning**, **bidirectional reasoning**, and **parallel action generation** for multimodal tasks.
+
+![](assets/overview.png)
 
 Key Results:
 - **Dream-VL**: Achieves state-of-the-art performance among diffusion VLMs, comparable to top-tier AR VLMs trained on open data, with superior performance on visual planning tasks requiring long-horizon reasoning.
