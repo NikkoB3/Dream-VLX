@@ -32,7 +32,7 @@ pip install "flash-attn==2.5.5" --no-build-isolation # do the following if `impo
 
 Below shows an example of how to use Dream-VL.
 
-```
+```python
 import torch
 from transformers import AutoProcessor, AutoModel
 
@@ -168,7 +168,7 @@ Once pretraining is complete, proceed to finetune the model: **Ensure Fine-tunin
 
 After obtaining the single-image data, run the following script to begin fine-tuning:
 
-```
+```bash
 cd train
 
 # 1 ep with lr 1e-5
@@ -182,7 +182,7 @@ bash scripts/train/dream_vl/finetune_si2.sh
 
 After obtaining the ov data, run the following script to begin fine-tuning:
 
-```
+```bash
 cd train
 
 bash scripts/train/dream_vl/finetune_ov.sh
